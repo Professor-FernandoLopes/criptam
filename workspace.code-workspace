@@ -1,0 +1,83 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../GoStack-GoBarber"
+		},
+		{
+			"path": "../e-commerce"
+		},
+		{
+			"path": "../cryptau"
+		},
+		{
+			"path": "../bootcamp"
+		},
+		{
+			"path": "../dataCurrency"
+		},
+		{
+			"path": "../me"
+		},
+		{
+			"path": "../open-react-template"
+		},
+		{
+			"path": "../landing-create-react-app-example"
+		},
+		{
+			"path": "../React360UdemyCourse"
+		},
+		{
+			"path": "../eth-ipfs"
+		},
+		{
+			"path": "../EthPriceOracle"
+		},
+		{
+			"path": "../uniswap-interface"
+		},
+		{
+			"path": "../instruaud2"
+		},
+		{
+			"path": "../ico"
+		},
+		{
+			"path": "../binance"
+		},
+		{
+			"path": "../dapp_wallet-master"
+		},
+		{
+			"path": "../web3-react-js-master"
+		},
+		{
+			"path": "../blockchain-mastery-university-authentication"
+		},
+		{
+			"path": "../dapp_hooks_template-master"
+		},
+		{
+			"path": "../wallet"
+		},
+		{
+			"path": "../token"
+		},
+		{
+			"path": "../EthereumCasts"
+		},
+		{
+			"path": "../crdt"
+		},
+		{
+			"path": "../next-web3"
+		},
+		{
+			"path": "../ethers_examples"
+		}
+	],
+	"settings": {}
+}
